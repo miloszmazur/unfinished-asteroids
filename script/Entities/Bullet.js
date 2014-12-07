@@ -28,7 +28,7 @@ ENGINE.Bullet.prototype = {
 
   sprites: [
     [20, 53, 6, 6],
-    [43, 53, 6, 6],
+    [43, 53, 6, 6]
   ],
 
   collision: function(entity) {
